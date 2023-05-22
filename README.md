@@ -38,7 +38,7 @@ Install vim.
 
 ![image](https://github.com/Pranaenae/Hazesoft-T2/assets/80820244/92bcb7b9-87f2-4501-a233-b720e909be4d)
 
-## 3. Modify the hosts file in ansible to include the ansible-control and webserver.
+## 3. Modify the hosts file to include the ansible-control and webserver.
 
 ```
 sudo vim /etc/hosts
